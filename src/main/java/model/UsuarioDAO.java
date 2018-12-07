@@ -7,6 +7,10 @@ public class UsuarioDAO {
 	public UsuarioDAO() {
 		
 	}
+	public UsuarioDAO() {
+		
+	}
+	//wea
 	public UsuarioDAO(Usuario usuario) {
 
 		this.id = usuario.getId();
