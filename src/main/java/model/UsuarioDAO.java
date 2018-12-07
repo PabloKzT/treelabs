@@ -10,7 +10,7 @@ public class UsuarioDAO {
 	public UsuarioDAO() {
 		
 	}
-	//wea
+	//wea-2
 	public UsuarioDAO(Usuario usuario) {
 
 		this.id = usuario.getId();
